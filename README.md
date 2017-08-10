@@ -1,6 +1,7 @@
 # Project-Customer-Action-Prediction-on-E-Commerce-Data
 Implemented using ANN model
 
+#### Goal ####
 Predicting the action of the user on a website given the user's data.
 
 #### Dataset contains following features per user ####
